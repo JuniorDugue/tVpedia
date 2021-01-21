@@ -1,10 +1,11 @@
 import React from "react";
+import MainPageLayout from "../MainPageLayout";
 
 const Favorites = () => {
   return (
-    <div>
+    <MainPageLayout>
       <h2>Favorites</h2>
-    </div>
+    </MainPageLayout>
   );
 };
 

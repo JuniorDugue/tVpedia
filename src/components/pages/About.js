@@ -1,10 +1,11 @@
 import React from "react";
+import MainPageLayout from "../MainPageLayout";
 
 const About = () => {
   return (
-    <div>
+    <MainPageLayout>
       <h2>About</h2>
-    </div>
+    </MainPageLayout>
   );
 };
 

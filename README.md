@@ -1,3 +1,25 @@
+# World of Films
+
+## Features
+
+- Search for films, actors & actresses
+- Save your favorite films
+- Using the API from https://www.tvmaze.com/api
+
+### Tech Stack
+
+- React Hooks, styled components and framer motion
+
+### MVP
+- mobile responsive
+- ability to search for films
+- ability to save favorite films
+
+### Stretch Goals
+- show schedule / timer / reminder of when the next tv show episode will air
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,10 +1,11 @@
 import React from "react";
+import MainPageLayout from "../MainPageLayout";
 
 const Contact = () => {
   return (
-    <div>
+    <MainPageLayout>
       <h2>Contact</h2>
-    </div>
+    </MainPageLayout>
   );
 };
 
