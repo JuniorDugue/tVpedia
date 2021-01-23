@@ -1,9 +1,9 @@
-# World of Films
+# tVpedia
 
 ## Features
 
-- Search for films, actors & actresses
-- Save your favorite films
+- Search for TV shows, actors & actresses
+- Save your favorite shows
 - Using the API from https://www.tvmaze.com/api
 
 ### Tech Stack
@@ -11,11 +11,13 @@
 - React Hooks, styled components and framer motion
 
 ### MVP
+
 - mobile responsive
-- ability to search for films
-- ability to save favorite films
+- ability to search for shows
+- ability to save favorite shows
 
 ### Stretch Goals
+
 - show schedule / timer / reminder of when the next tv show episode will air
 
 ---
